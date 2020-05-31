@@ -1,2 +1,2 @@
 # NGOWebsite
-Wrote website for an NGO
+Built website for an NGO
